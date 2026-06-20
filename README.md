@@ -8,5 +8,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0035-search-insert-position) |
 | [0367-valid-perfect-square](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0367-valid-perfect-square) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
