@@ -36,10 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
+| [0344-reverse-string](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0344-reverse-string) |
 | [3794-reverse-string-prefix](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
+| [0344-reverse-string](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0344-reverse-string) |
 | [3794-reverse-string-prefix](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3794-reverse-string-prefix) |
 <!---LeetCode Topics End-->
