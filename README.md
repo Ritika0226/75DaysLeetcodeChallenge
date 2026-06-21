@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0164-maximum-gap) |
+| [0242-valid-anagram](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
@@ -49,12 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0344-reverse-string) |
 | [0820-short-encoding-of-words](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0820-short-encoding-of-words) |
 | [3794-reverse-string-prefix](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0820-short-encoding-of-words](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0820-short-encoding-of-words) |
 ## Trie
 |  |
