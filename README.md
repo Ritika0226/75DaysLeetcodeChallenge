@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 ## Two Pointers
 |  |
@@ -53,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0344-reverse-string) |
 | [0820-short-encoding-of-words](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0820-short-encoding-of-words) |
+| [1189-maximum-number-of-balloons](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [3794-reverse-string-prefix](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0820-short-encoding-of-words](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0820-short-encoding-of-words) |
+| [1189-maximum-number-of-balloons](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 ## Trie
 |  |
 | ------- |
