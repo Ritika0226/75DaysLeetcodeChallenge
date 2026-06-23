@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0045-jump-game-ii) |
 | [0164-maximum-gap](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -24,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0045-jump-game-ii) |
 | [0198-house-robber](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0198-house-robber) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0045-jump-game-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
 |  |
