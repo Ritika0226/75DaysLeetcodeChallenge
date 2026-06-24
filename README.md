@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0367-valid-perfect-square) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0045-jump-game-ii) |
 | [0198-house-robber](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0198-house-robber) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Greedy
 |  |
 | ------- |
