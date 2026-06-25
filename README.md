@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-short-encoding-of-words](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0820-short-encoding-of-words) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0820-short-encoding-of-words](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0820-short-encoding-of-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Trie
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Database
 |  |
 | ------- |
@@ -153,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0222-count-complete-tree-nodes) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
