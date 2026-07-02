@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Quickselect
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -193,4 +196,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
