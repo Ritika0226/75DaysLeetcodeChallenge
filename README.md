@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0045-jump-game-ii) |
 | [0164-maximum-gap](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0164-maximum-gap) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0344-reverse-string) |
