@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0709-to-lower-case) |
 | [0820-short-encoding-of-words](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0820-short-encoding-of-words) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0820-short-encoding-of-words](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0820-short-encoding-of-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
@@ -233,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3620-network-recovery-pathways) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
