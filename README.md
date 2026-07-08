@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0367-valid-perfect-square) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0709-to-lower-case) |
 | [0820-short-encoding-of-words](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0820-short-encoding-of-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3794-reverse-string-prefix](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Database
 |  |
 | ------- |
