@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0164-maximum-gap](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0045-jump-game-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0198-house-robber) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0516-longest-palindromic-subsequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
