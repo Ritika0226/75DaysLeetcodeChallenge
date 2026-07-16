@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0164-maximum-gap) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
