@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0334-increasing-triplet-subsequence) |
 | [0496-next-greater-element-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0820-short-encoding-of-words](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0820-short-encoding-of-words) |
 | [1288-remove-covered-intervals](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1288-remove-covered-intervals) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0820-short-encoding-of-words](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0820-short-encoding-of-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
