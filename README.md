@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-short-encoding-of-words](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0820-short-encoding-of-words) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3794-reverse-string-prefix](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Union-Find
 |  |
 | ------- |
