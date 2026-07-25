@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0367-valid-perfect-square) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
