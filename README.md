@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0796-rotate-string) |
 | [0820-short-encoding-of-words](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0820-short-encoding-of-words) |
+| [1021-remove-outermost-parentheses](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0682-baseball-game) |
+| [1021-remove-outermost-parentheses](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
