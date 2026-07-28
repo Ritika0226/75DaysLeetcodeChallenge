@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
@@ -391,5 +393,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
