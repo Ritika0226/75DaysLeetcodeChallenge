@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0682-baseball-game) |
 | [0820-short-encoding-of-words](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0820-short-encoding-of-words) |
 | [1260-shift-2d-grid](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1288-remove-covered-intervals) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
