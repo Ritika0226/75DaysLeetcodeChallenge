@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0709-to-lower-case) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1021-remove-outermost-parentheses) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0394-decode-string) |
 ## Binary Search Tree
 |  |
 | ------- |
