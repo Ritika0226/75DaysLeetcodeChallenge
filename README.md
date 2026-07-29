@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0367-valid-perfect-square) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0198-house-robber) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0232-implement-queue-using-stacks) |
