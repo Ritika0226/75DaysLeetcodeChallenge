@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0367-valid-perfect-square) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0058-length-of-last-word) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0142-linked-list-cycle-ii) |
