@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0231-power-of-two) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
