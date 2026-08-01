@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0367-valid-perfect-square) |
+| [0486-predict-the-winner](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0334-increasing-triplet-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0486-predict-the-winner](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0198-house-robber) |
+| [0486-predict-the-winner](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0516-longest-palindromic-subsequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0486-predict-the-winner) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -436,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0070-climbing-stairs) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
