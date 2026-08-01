@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0334-increasing-triplet-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0486-predict-the-winner) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0516-longest-palindromic-subsequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0322-coin-change](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0322-coin-change) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
