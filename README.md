@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0231-power-of-two) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0198-house-robber) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0516-longest-palindromic-subsequence) |
@@ -430,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
