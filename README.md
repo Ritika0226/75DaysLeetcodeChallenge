@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1288-remove-covered-intervals) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1406-stone-game-iii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1406-stone-game-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0516-longest-palindromic-subsequence) |
 | [0877-stone-game](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3620-network-recovery-pathways) |
@@ -451,4 +454,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
