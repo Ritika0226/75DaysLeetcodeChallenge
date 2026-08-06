@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0682-baseball-game) |
 | [0820-short-encoding-of-words](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0820-short-encoding-of-words) |
 | [0877-stone-game](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0877-stone-game) |
+| [1051-height-checker](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1288-remove-covered-intervals) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [1051-height-checker](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1288-remove-covered-intervals) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
+| [1051-height-checker](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1051-height-checker) |
 | [1189-maximum-number-of-balloons](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -474,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1406-stone-game-iii) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
