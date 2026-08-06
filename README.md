@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0088-merge-sorted-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0198-house-robber) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
