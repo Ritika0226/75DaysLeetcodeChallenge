@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0283-move-zeroes) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1051-height-checker) |
 | [1189-maximum-number-of-balloons](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -483,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/1051-height-checker) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ritika0226/75DaysLeetcodeChallenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
